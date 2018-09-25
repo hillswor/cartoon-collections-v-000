@@ -24,4 +24,5 @@ def find_the_cheese(array)
     cheese types
   else
     false
+  end
 end
